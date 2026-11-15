@@ -1,0 +1,9 @@
+yarn-error.log*
+.cache/
+coverage/
+.next/
+.DS_Store
+.env.local
+*.tgz
+.env
+dist/
